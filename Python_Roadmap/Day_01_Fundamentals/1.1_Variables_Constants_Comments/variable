@@ -1,0 +1,29 @@
+✅ Variables
+- Used to store data.
+- No need to declare type
+
+name = "Praveen"
+age = 30
+pi = 3.14
+
+
+✅ Constants
+• 	Python doesn’t enforce constants, but use UPPERCASE by convention.
+
+MAX_RETRIES = 5
+
+✅ Comments
+- Single-line: # This is a comment
+- Multi-line:
+"""
+This is a multi-line comment.
+Useful for documentation.
+"""
+✅ Comments
+• 	Single-line: 
+• 	Multi-line:
+
+
+
+
+
